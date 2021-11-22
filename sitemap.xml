@@ -4,7 +4,21 @@
   <url>
     <loc>https://rosylia.github.io/AstrodomeTheater/2021/11/17/About/</loc>
     
-    <lastmod>2021-11-20</lastmod>
+    <lastmod>2021-11-22</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://rosylia.github.io/AstrodomeTheater/about/story%E6%B7%B1%E6%B8%8A.html</loc>
+    
+    <lastmod>2021-11-22</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://rosylia.github.io/AstrodomeTheater/about/story%E5%B9%BB%E5%83%8F%E7%96%AB%E7%97%85.html</loc>
+    
+    <lastmod>2021-11-22</lastmod>
     
   </url>
   
@@ -30,20 +44,6 @@
   </url>
   
   <url>
-    <loc>https://rosylia.github.io/AstrodomeTheater/2021/04/09/story%E6%B7%B1%E6%B8%8A/</loc>
-    
-    <lastmod>2021-05-01</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://rosylia.github.io/AstrodomeTheater/2021/04/08/story%E5%B9%BB%E5%83%8F%E7%96%AB%E7%97%85/</loc>
-    
-    <lastmod>2021-05-01</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://rosylia.github.io/AstrodomeTheater/about/about.html</loc>
     
     <lastmod>2021-05-01</lastmod>
@@ -60,7 +60,7 @@
 
   <url>
     <loc>https://rosylia.github.io/AstrodomeTheater</loc>
-    <lastmod>2021-11-20</lastmod>
+    <lastmod>2021-11-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
